@@ -1,0 +1,23 @@
+<resources>
+    <!-- String resources for hardcoded strings -->
+    <string name="app_name">Metric Converter\nBy: Gio Gosal</string>
+    <string name="pilih">Pilih Matrik</string>
+    <string name="input_hint">Input nilai</string>
+    <string name="result_label">Hasil Konversi</string>
+    <string name="default_value">0</string>
+    <string name="from_label">Dari:</string>
+    <string name="to_label">Ke:</string>
+
+    <!-- Existing arrays -->
+    <string-array name="metrics">
+        <item>-- Pilih Metrik</item>
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus listrik</item>
+        <item>Suhu</item>
+    </string-array>
+    <string-array name="template">
+        <item>-- Pilih Satuan</item>
+    </string-array>
+</resources>
